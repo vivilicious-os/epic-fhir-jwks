@@ -1,0 +1,12 @@
+{
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "vbm-nonprod-2026",
+      "alg": "RS384",
+      "n": "panCzxzNh_Pdt4WMyh0z91hsYtb80PgB-7bjSUZ-89WBi3Ve0ID0ns2ZiyPWSlgzdJZfbwbFS457XUatzCQLb0ItbIs1c4YWQzqlfAT1EOtSR1JJuYXJNgERPQVJ57QDFhgRH2lWiqmxoAkP8AeFJf2j6pIX-srhQZ59nkqb7jZXBWt6n6sBQ5_lb3vUWpuqKq8d-SBxqKebYPi4Sf2gON2y7VStPJMJ73VoavwJBz4AfFeYJZM6HUkTxoyID2kb53t5MJtEFpTJJUv2a7rQFQ7Vtv3Q3tVt66_rG1tfgXE5i8uPEcNoFZj2QaI65i-XLUbsstszJWX5006-pCgHkQ",
+      "e": "AQAB"
+    }
+  ]
+}
